@@ -1,9 +1,9 @@
 ## 2024 Edition
 
-After a hiatus in the organization owing to the global covid pandemic, a four-day International Flatfish symposium was organized on 25-28 November in Wageningen, the Netherlands. Its title: "Reconnect[...]
+After a hiatus in the organization owing to the global covid pandemic, a four-day International Flatfish symposium was organized on 25-28 November in Wageningen, the Netherlands. Its title: "Reconnecting Horizons: Charting a
 course for flatfish research".
 
-The objective of the 2024 Symposium was to bring together researchers working on flatfish and their fisheries again, providing them with an opportunity to present their work, and fostering discussions[...]
+The objective of the 2024 Symposium was to bring together researchers working on flatfish and their fisheries again, providing them with an opportunity to present their work, and fostering discussions. There were six themes:
 1. Environmental forcing of flatfish populations
 2. Socioeconomic Impacts of flatfish fisheries including bycatches
 3. Spatial Population Structures: assessment, movements, behavior
