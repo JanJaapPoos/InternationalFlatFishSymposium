@@ -14,7 +14,7 @@ body {
 }
 
 .page-header {
-  background: url('../img/mael-balland-uDXx766kLic-unsplash.jpg') center/cover no-repeat;
+  background: url('./mael-balland-uDXx766kLic-unsplash.jpg') center/cover no-repeat;
   padding: 30px 20px;
   text-align: center;
 }
