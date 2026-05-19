@@ -22,6 +22,7 @@ Saint-Mailo, France. Introduction to symposium issue [here](https://www.scienced
 ## 2014 Edition
 
 Seattle, USA. Introduction to symposium issue [here](https://www.sciencedirect.com/science/article/pii/S1385110115300344)
+<img src="assets/css/IMG_6250.JPG" alt="2024 Symposium Photo" width="500">
 
 ## 2011 Edition
 
