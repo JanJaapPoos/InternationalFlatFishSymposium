@@ -14,7 +14,7 @@ body {
 }
 
 .page-header {
-  background-color: #157878;
+  background: url('../img/mael-balland-uDXx766kLic-unsplash.jpg') center/cover no-repeat;
   padding: 30px 20px;
   text-align: center;
 }
