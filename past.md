@@ -13,7 +13,7 @@ The objective of the 2024 Symposium was to bring together researchers working on
 
 There were 80 participants, 50 talks, ten posters, and four keynotes.  
 
-![2024 Symposium Photo](assets/css/20241128_101322.jpg)
+<img src="assets/css/20241128_101322.jpg" alt="2024 Symposium Photo" width="500">
 
 ## 2017 Edition
 
