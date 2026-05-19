@@ -11,7 +11,7 @@ The objective of the 2024 Symposium was to bring together researchers working on
 5. Insights on: life history patterns from otolith studies
 6. Emergent Issues: new investigations, wind farm development
 
-There were 50 talks, ten posters, and four keynotes.  
+There were 80 participants, 50 talks, ten posters, and four keynotes.  
 
 ![2024 Symposium Photo](assets/20241128_101322.jpg)
 
